@@ -1,0 +1,6 @@
+{
+  "name": "ABOUT ME - 개인 브랜딩 홈페이지",
+  "description": "나를 기록하고, 나답게 성장하다. 성실함과 꾸준함으로 배움과 교육, 독서, 기록, 신앙의 이야기를 담은 감성적이고 세련된 개인 브랜딩 포트폴리오 웹사이트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
